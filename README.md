@@ -1,2 +1,3 @@
-# Weather-App
-This I created by vanilla javascript also I use API from public
+# FrontEnd - Weather-App
+
+`Techonolog: HTML, CSS, JavaScript, Bootstrap`
